@@ -1,2 +1,6 @@
 # Java_w3school
-This repository was my documentary for learning Java based on w3school
+
+**Hello guys this repository was my place or documentary for learning Java based on w3school**
+
+I hope this repository can be usefull for anyone that find this documentary *:)*
+
